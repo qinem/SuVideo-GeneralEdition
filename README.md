@@ -5,4 +5,4 @@
 为了稳住军心，φ(￣∇￣o)就先发布这个通用版本。
 o(*////▽////*)q 然后顺便为模板想了个简单名字，就叫`SuVideo`
 本套模板是基于`DIYgod`的`DPlayer`播放器，DIYgod地址[https://diygod.me/][1]
-介于`泽泽`中`Violet`主题影视模块更改而来，泽泽地址[https://qqdie.com/][2]
+介于`泽泽`中`Violet`主题影视模块更改而来，泽泽地址[https://qqdie.com/
