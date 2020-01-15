@@ -6,5 +6,5 @@
 o(*////▽////*)q 然后顺便为模板想了个简单名字，就叫`SuVideo`  
 本套模板是基于`DIYgod`的`DPlayer`播放器，DIYgod地址https://diygod.me/]  
 介于`泽泽`中`Violet`主题影视模块更改而来，泽泽地址https://qqdie.com/  
-食用方法https://www.qinem.cn/
+食用方法https://www.qinem.cn/archives/236/  
 ![Image text](https://s2.ax1x.com/2020/01/15/lOYB38.png)  
