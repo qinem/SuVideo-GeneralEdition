@@ -1,22 +1,4 @@
 <?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
-<style type="text/css">
-	.photo{
-		float:left;
-		width:20%;
-		table-layout: fixed;
-		word-wrap:break-word;
-	}
-	.intro{
-		float:right;
-		width:80%;
-	}
-	.qin{
-		float:none;
-	}
-	.container {width: 100%;}
-	.photo {float: left; width: 40%;}
-	.content {float: right; width: 60%;}
-</style>
 <div id="postpage" class="blog-post">
     <article class="single-post panel">
         <div id="dplayer"></div>
